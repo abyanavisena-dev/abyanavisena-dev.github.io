@@ -9,8 +9,7 @@ title: Portofolio
 
 [Email:](https://mail.google.com/mail/?view=cm&to=abyanavisena@gmail.com) abyanavisena@gmail.com
 
-
-Sains Aktuaria, Institut Teknologi Sumatera (ITERA), lulus Januari 2026.
+Sains Aktuaria, Institut Teknologi Sumatera (ITERA), lulus Januari 2026
 
 Saya membangun model aktuaria di Excel, VBA, R, dan Python, dengan fokus pada produk unit-link, PSAK 117 / IFRS 17, dan pendanaan pensiun. Saat ini saya mencari posisi entry-level di bidang aktuaria, manajemen risiko, dan valuasi di perusahaan asuransi dan reasuransi di Jakarta.
 
