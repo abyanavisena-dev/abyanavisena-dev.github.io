@@ -5,8 +5,7 @@ title: Portofolio
 
 # Abyan Avisena Siregar
 
-[CV](pdf/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/abyan-avisena) · [GitHub](https://github.com/abyanavisena-dev) · [abyanavisena@gmail.com](https://mail.google.com/mail/?view=cm&to=abyanavisena@gmail.com)
-
+[Email:](https://mail.google.com/mail/?view=cm&to=abyanavisena@gmail.com) abyanavisena@gmail.com
 Sains Aktuaria, Institut Teknologi Sumatera (ITERA), lulus Januari 2026.
 
 Saya membangun model aktuaria di Excel, VBA, R, dan Python, dengan fokus pada produk unit-link, PSAK 117 / IFRS 17, dan pendanaan pensiun. Saat ini saya mencari posisi entry-level di bidang aktuaria, manajemen risiko, dan valuasi di perusahaan asuransi dan reasuransi di Jakarta.
