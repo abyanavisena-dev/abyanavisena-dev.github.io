@@ -5,6 +5,8 @@ title: Portofolio
 
 # Abyan Avisena Siregar
 
+[CV](pdf/cv.pdf) &#124; [LinkedIn](https://www.linkedin.com/in/abyan-avisena) &#124; [GitHub](https://github.com/abyanavisena-dev)
+
 [Email:](https://mail.google.com/mail/?view=cm&to=abyanavisena@gmail.com) abyanavisena@gmail.com
 Sains Aktuaria, Institut Teknologi Sumatera (ITERA), lulus Januari 2026.
 
